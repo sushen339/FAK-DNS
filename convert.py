@@ -17,8 +17,8 @@ def main():
     converted_directory = os.path.join(current_directory, 'converted')  # 创建 converted 文件夹
     os.makedirs(converted_directory, exist_ok=True)  # 确保 converted 文件夹存在
     
-    # 只处理 accelerated-domains.china.conf.txt 文件
-    target_file = os.path.join(current_directory, 'accelerated-domains.china.conf.txt')
+    # 只处理 accelerated-domains.china.conf 文件
+    target_file = os.path.join(current_directory, 'accelerated-domains.china.conf')
     
     if not os.path.exists(target_file):
         print(f"文件不存在: {target_file}")
