@@ -29,15 +29,8 @@ jobs:
 
     - name: Check for changes
       run: |
-        echo "=== Git status ==="
-        git status
-        echo "=== Git diff ==="
-        git diff
-        echo "=== Files in converted directory ==="
-        ls -la converted/ || echo "converted directory not found"
-        echo "=== Git add converted files ==="
         git add converted/
-        if ! git diff --quiet; then
+        if ! git diff --cached --quiet; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           current_time=$(date +'%Y-%m-%d %H:%M:%S')
