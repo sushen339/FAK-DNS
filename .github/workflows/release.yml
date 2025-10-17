@@ -1,0 +1,37 @@
+name: Build and Release cn-dns.txt
+
+on:
+  push:
+    branches:
+      - main  # 或根据你的主分支名修改
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'  # 或你的环境版本
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || true
+
+      - name: Generate cn-dns.txt
+        env:
+          CN_DNS: 127.0.0.1:1053
+          THE_DNS: 127.0.0.1:5335
+        run: python convert.py
+
+      - name: Create release and upload cn-dns.txt
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: auto-cn-dns-${{ github.run_number }}
+          name: Auto Release ${{ github.run_number }}
+          body: "自动生成的 cn-dns.txt"
+          files: converted/cn-dns.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
