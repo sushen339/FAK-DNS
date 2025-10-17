@@ -32,6 +32,7 @@ def main():
     final_output = os.path.join(converted_directory, 'cn-dns.txt')
     with open(final_output, 'w') as output_file:
         output_file.write(the_dns + "\n")  # 新增行，内容为自定义内容
+        output_file.write("[/services.googleapis.cn/]127.0.0.1:1053\n")  # 第二行
         with open(temp_txt_file, 'r') as temp_file:
             output_file.write(temp_file.read())
     
