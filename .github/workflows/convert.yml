@@ -45,3 +45,21 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master
+
+    - name: Create or update 'latest' release if not exists
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: latest
+        name: "Latest Release"
+        body: "Auto-updated release with the latest cn-dns.txt"
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload cn-dns.txt to latest release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: latest
+        files: converted/cn-dns.txt
+        token: ${{ secrets.GITHUB_TOKEN }}
