@@ -11764,6 +11764,7 @@
 [/ailvxing.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/aim-ec.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/aimaker.space/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/aimap.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/aimatech.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/aimatrix.ai/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/aimcx.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -17424,6 +17425,7 @@
 [/bjfqy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/bjfriendshiphotel.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/bjfsali.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/bjftfy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/bjfzst.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/bjgas.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/bjgasgh.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -21323,6 +21325,7 @@
 [/cetgps.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/cethik.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/cetkmh.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/cetsteam.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/cetzig.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ceultimate.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ceve-market.org/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -34996,6 +34999,7 @@
 [/evpartner.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/evpowergroup.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/evtcn.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/evtrust.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/evyy.net/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/evzhidao.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/evznl.org/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -36948,6 +36952,7 @@
 [/fk100.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fkask.net/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fkblog.org/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/fkbuff.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fkcaijing.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fkdex.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fkdmg.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -48035,6 +48040,7 @@
 [/hivictor.net/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/hiwafer.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/hiwaysemi.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/hiwayslaw.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/hiwbb.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/hiwechats.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/hiweixiu.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -59756,6 +59762,7 @@
 [/jxxdxy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jxxhdn.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jxxhsd.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/jxxinzhe.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jxxnyqc.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jxxs.net/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jxycqy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -92848,6 +92855,7 @@
 [/tencentcloudclub.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/tencentcloudcore.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/tencentcloudcr.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/tencentcloudcs.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/tencentcloudga.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/tencentcloudga001.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/tencentcloudga001.net/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
