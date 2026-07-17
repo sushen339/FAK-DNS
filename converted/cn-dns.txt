@@ -28034,6 +28034,7 @@
 [/dcyz.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dcyzq.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dczcsc.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/dczcy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dczkj.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dczy168.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dd-advisor.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -29020,6 +29021,7 @@
 [/didichuxing.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dididapiao.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/dididi88.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/didifinance.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/didiglobal.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/didimobility.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/didiopenapi.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -35818,6 +35820,7 @@
 [/fuca-china.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fucantec.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fuchaipower.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/fuchenkj.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fuchuangyu.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fucnm.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/fucol.club/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -53594,6 +53597,7 @@
 [/jieshui8.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jieshuitech.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jieshuwang.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/jietianz.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jietu365.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jietuhb.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/jietuosh.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -79334,6 +79338,7 @@
 [/sdseshealth.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/sdsfjy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/sdshangya.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/sdshdc.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/sdshgk.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/sdshihua.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/sdshitu.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -81018,6 +81023,7 @@
 [/shicaizhanlan.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/shicehao.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/shichangbu.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/shicheng6.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/shichengbao.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/shichengyi.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/shichuangsj.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -91444,6 +91450,7 @@
 [/ulikestatic.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ulinix.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ulinix.tv/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/ulongemg.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ulpay.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ultracachenode.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/ultraeda.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
@@ -106204,6 +106211,7 @@
 [/yximgs.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/yxin18.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/yxinbao.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
+[/yxingfan.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/yxintent.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/yxit.net/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
 [/yxixy.com/]https://223.5.5.5/dns-query https://1.12.12.12/dns-query
